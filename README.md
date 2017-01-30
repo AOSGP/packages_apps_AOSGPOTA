@@ -20,7 +20,7 @@ How to use
 
 ### Most guys can skip the below part
 
-Define how ResurrectionOTA should know about the "version". The version must be parseable to a date.
+Define how AOSGPOTA should know about the "version". The version must be parseable to a date.
 Usually, the version is a part of a build name. For example, the 20150426 in the SlimSaber-bacon-5.0.2-20150426.
 Adjust the OTA configuration according to your build name on how should ResurrectionOTA parse the version
 Find a key in build.prop that represents the ResurrectionRemix-M-v5.7.0-20160622-falcon.zip and set it in the "version_name"
