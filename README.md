@@ -1,4 +1,4 @@
-ResurrectionOTA
+AOSGPOTA
 -------
 A very simple OTA checker with Android Settings look and feel.
 
@@ -33,6 +33,8 @@ ResurrectionOTA will search this device name in the OTA xml file
 
 Credits
 -------
+* [SlimRoms team](http://http://www.resurrectionremix.com//)
+  * For the original base app
 * [SlimRoms team](http://Slimroms.net/)
   * For the original idea of the SlimCenter and app icon
 * [CommonsWare Android Components](https://github.com/commonsguy/cwac-wakeful)
