@@ -21,9 +21,9 @@ How to use
 ### Most guys can skip the below part
 
 Define how AOSGPOTA should know about the "version". The version must be parseable to a date.
-Usually, the version is a part of a build name. For example, the 20150426 in the SlimSaber-bacon-5.0.2-20150426.
+Usually, the version is a part of a build name. For example, the 20170506 in the aosgp-X-2.0-20150426-athene.
 Adjust the OTA configuration according to your build name on how should AOSGPOTA parse the version
-Find a key in build.prop that represents the ResurrectionRemix-M-v5.7.0-20160622-falcon.zip and set it in the "version_name"
+Find a key in build.prop that represents the aosgp-X-2.0-20170206-athene.zip and set it in the "version_name"
 Set the delimiter in "version_delimiter" to "-"
 Set the date format in "version_format" to "yyyyMMdd"
 Set the position in "version_position" to "3" (zero based)
